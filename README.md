@@ -2,7 +2,7 @@
 
 > [![npm version](https://img.shields.io/npm/v/emojione.svg)](https://www.npmjs.com/package/emojione) [![npm downloads](https://img.shields.io/npm/dt/emojione.svg)](https://www.npmjs.com/package/emojione)
 
-The web's first and only complete open source emoji set. It is 100% free for digital use and super easy to integrate.
+A set of libraries to help users find and replace native system emojis with EmojiOne in their app or website.
 
 
 ## What's Included?
@@ -21,7 +21,7 @@ The web's first and only complete open source emoji set. It is 100% free for dig
  
  ### EmojiOne Version 2
  
- EmojiOne version 2 assets (all SVG and PNG) are available in [the 2.2.7 branch](https://github.com/emojione/emojione/tree/2.2.7), and they remain available for digital use (with attribution) under the Creative Commons license. Please see [INSTALLATION.md](INSTALLATION.md) for instructions on installing version 2, and [UPGRADE.md](UPGRADE.md) for instructions on upgrading from version 2 to version 3.
+ EmojiOne version 2 is no longer supported or distributed. Please see [UPGRADE.md](UPGRADE.md) for instructions on upgrading from version 2 to version 3. Version 2 was bound by the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
 ## Installation
